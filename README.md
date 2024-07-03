@@ -34,7 +34,7 @@ Literalura é uma aplicação Java/Spring Boot para amantes de livros. Esta apli
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/literalura.git
+   git clone https://github.com/EricSousa02/LiterAlura.git
    cd literalura
    ```
 

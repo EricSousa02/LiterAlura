@@ -113,10 +113,6 @@ Se você deseja contribuir para o projeto, siga os passos abaixo:
 4. Envie para o repositório original: `git push origin minha-feature`.
 5. Abra um Pull Request.
 
-## Licença
-
-Este projeto está licenciado sob a MIT License. Veja o arquivo `LICENSE` para mais detalhes.
-
 ## Contato
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
